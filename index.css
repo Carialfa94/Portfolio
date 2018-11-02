@@ -82,7 +82,12 @@ font-family: 'LobsterRegular';
                  color: #FFE4B5;
 	}
 
-  
+  p{
+	    font-family: 'DancingScriptRegular'; 
+                 color: #ffe6e6;
+				text-align: center;
+}
+	  
   mark {
    
     color: black;
